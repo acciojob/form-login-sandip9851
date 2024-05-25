@@ -1,3 +1,4 @@
+
 function getFormvalue(event) {
     event.preventDefault(); // This line stops the form from submitting normally
     var fname = document.querySelector('input[name="fname"]').value;
